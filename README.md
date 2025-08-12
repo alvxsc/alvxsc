@@ -3,8 +3,8 @@
 -->
 <p align="center">
   <samp>
-    <a href="#">blog</a> .
-    <a href="#">projects</a> .
-    <a href="#">youtube</a>
+    <a href="/#">blog</a> .
+    <a href="/#">projects</a> .
+    <a href="/#">youtube</a>
   </samp>
 </p>
