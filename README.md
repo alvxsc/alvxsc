@@ -6,5 +6,6 @@
     <a href="/#">blog</a> .
     <a href="/#">projects</a> .
     <a href="/#">youtube</a>
+    <a href="/#">linkedin</a>
   </samp>
 </p>
