@@ -8,3 +8,12 @@
     <a href="/#">linkedin</a>
   </samp>
 </p>
+<!--
+
+<div align="center">
+  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+  
+</div>
+-->
