@@ -5,7 +5,7 @@
   <samp>
     <a href="/#">blog</a> .
     <a href="/#">projects</a> .
-    <a href="https://www.linkedin.com/in/anacarolinasalves">linkedin</a>
+    <a href="https://www.linkedin.com/in/anacarolinasalves" target="_blank">linkedin</a>
   </samp>
 </p>
 <!--
