@@ -6,7 +6,7 @@
     <a href="/#">blog</a> .
     <a href="/#">projects</a> .
     <a href="https://www.linkedin.com/in/anacarolinasalves" target="_blank">linkedin</a> .
-    <a href="https://www.youtube.com/@corelinux" target="_blank">youtube</a>
+    <a href="https://www.youtube.com/@porfalaremdados" target="_blank">youtube</a>
   </samp>
 </p>
 <!--
