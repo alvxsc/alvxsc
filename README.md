@@ -4,7 +4,6 @@
 
 <p align="center">
   <samp>
-    <a href="/#">blog</a> .
     <a href="/#">projects</a> .
     <a href="https://www.linkedin.com/in/anacarolinasalves" target="_blank">linkedin</a> .
     <a href="https://www.youtube.com/@porfalaremdados" target="_blank">youtube</a>
